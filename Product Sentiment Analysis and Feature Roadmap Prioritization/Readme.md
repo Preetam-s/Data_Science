@@ -6,12 +6,12 @@
 4. Compared the calculated sentiment and actual sentiment to get an accuracy of 81.7%.
 5. Removed stopwords (words with not much significant meaning) and created a Wordcloud to show the most frequent words in the review.
 ## Milestone 2
-1. Performed text preprocessing using Lowercase converion, Special character removal, Stopword removal, Lemmatization.
+1. Performed text preprocessing using Lowercase conversion, Special character removal, Stopword removal, and lemmatization.
 2. Extracted important keywords, using TF-IDF matrix.
 3. Classified various keywords into different Categories.
 4. Calculated average sentiment by feature category.
-5. Loaded the NRC lexion (csv) and performed emotion analysis.
+5. Loaded the NRC lexicon (CSV) and performed emotion analysis.
 ## Milestone 3
-1. Created the consolidated list of top fearures.
-2. Used the RICE framework to calculate the rice scores the features.
-3. Priortized the features based on the RICE Score (descending) to create a feaure roadmap.
+1. Created the consolidated list of top features.
+2. Used the RICE framework to calculate the rice scores for the features.
+3. Prioritized the features based on the RICE Score (descending) to create a feature roadmap.
